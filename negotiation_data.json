@@ -1,0 +1,238 @@
+[
+    {
+        "user_message": "hi i love this phone how much does it cost",
+        "bot_response": "its $599"
+    },
+    {
+        "user_message": "can i get a discount if i buy two",
+        "bot_response": "sure i can offer $570 each if you get two"
+    },
+    {
+        "user_message": "what about $550 each",
+        "bot_response": "i can go down to $560 each deal"
+    },
+    {
+        "user_message": "im interested in this laptop whats the price",
+        "bot_response": "its $1200"
+    },
+    {
+        "user_message": "can you give me a better deal",
+        "bot_response": "i can offer $1150 if you purchase now"
+    },
+    {
+        "user_message": "how about $1100",
+        "bot_response": "the lowest i can go is $1120 final price"
+    },
+    {
+        "user_message": "hey how much is this smartwatch",
+        "bot_response": "its $250"
+    },
+    {
+        "user_message": "any discounts available",
+        "bot_response": "i can give it for $235"
+    },
+    {
+        "user_message": "can you do $220",
+        "bot_response": "sorry $230 is my best offer"
+    },
+    {
+        "user_message": "this sofa looks amazing whats the price",
+        "bot_response": "its $800"
+    },
+    {
+        "user_message": "can i get a discount",
+        "bot_response": "i can lower it to $780"
+    },
+    {
+        "user_message": "what about $750",
+        "bot_response": "i can do $760 final price"
+    },
+    {
+        "user_message": "hi how much is this dining table set",
+        "bot_response": "the price is $1500"
+    },
+    {
+        "user_message": "can you lower it a bit",
+        "bot_response": "the best i can do is $1450"
+    },
+    {
+        "user_message": "what if i buy chairs separately",
+        "bot_response": "then i can offer $1400"
+    },
+    {
+        "user_message": "im looking at this gaming chair whats the cost",
+        "bot_response": "its $350"
+    },
+    {
+        "user_message": "any promotions running",
+        "bot_response": "yes i can offer it for $330"
+    },
+    {
+        "user_message": "how about $320",
+        "bot_response": "the lowest is $325 does that work"
+    },
+    {
+        "user_message": "hey how much is this refrigerator",
+        "bot_response": "its $999"
+    },
+    {
+        "user_message": "any chance for a lower price",
+        "bot_response": "i can do $970"
+    },
+    {
+        "user_message": "can you match $950",
+        "bot_response": "i can go as low as $960"
+    },
+    {
+        "user_message": "this guitar looks fantastic whats the price",
+        "bot_response": "its $600"
+    },
+    {
+        "user_message": "can i get a special deal",
+        "bot_response": "i can sell it for $580"
+    },
+    {
+        "user_message": "what about $550",
+        "bot_response": "the best i can do is $570"
+    },
+    {
+        "user_message": "hi i want this home theater system whats the price",
+        "bot_response": "the price is $1800"
+    },
+    {
+        "user_message": "can you offer a discount",
+        "bot_response": "i can reduce it to $1750"
+    },
+    {
+        "user_message": "can we settle at $1700",
+        "bot_response": "$1720 is my lowest"
+    },
+    {
+        "user_message": "im interested in this luxury watch whats the cost",
+        "bot_response": "its $5000"
+    },
+    {
+        "user_message": "any discounts available",
+        "bot_response": "i can give you a $300 discount"
+    },
+    {
+        "user_message": "can we do $4600",
+        "bot_response": "the lowest i can go is $4700"
+    },
+    {
+        "user_message": "this tv is nice how much",
+        "bot_response": "its $1100"
+    },
+    {
+        "user_message": "can i get it for $1050",
+        "bot_response": "i can lower it to $1070"
+    },
+    {
+        "user_message": "can we do $1030",
+        "bot_response": "$1060 is my best offer"
+    },
+    {
+        "user_message": "hi how much is this treadmill",
+        "bot_response": "its $900"
+    },
+    {
+        "user_message": "any discounts available",
+        "bot_response": "i can do $880"
+    },
+    {
+        "user_message": "can you go down to $850",
+        "bot_response": "the lowest i can go is $860"
+    },
+    {
+        "user_message": "hey i like this designer handbag whats the price",
+        "bot_response": "its $450"
+    },
+    {
+        "user_message": "can i get a discount",
+        "bot_response": "i can offer it for $430"
+    },
+    {
+        "user_message": "how about $410",
+        "bot_response": "$420 is the final price"
+    },
+    {
+        "user_message": "how much is this dslr camera",
+        "bot_response": "its $1600"
+    },
+    {
+        "user_message": "can you offer a discount",
+        "bot_response": "i can sell it for $1550"
+    },
+    {
+        "user_message": "what about $1500",
+        "bot_response": "the lowest is $1520"
+    },
+    {
+        "user_message": "im looking at this washing machine whats the price",
+        "bot_response": "its $700"
+    },
+    {
+        "user_message": "any promotions",
+        "bot_response": "i can reduce it to $680"
+    },
+    {
+        "user_message": "how about $650",
+        "bot_response": "$670 is my lowest"
+    },
+    {
+        "user_message": "this smartphone looks great whats the price",
+        "bot_response": "its $999"
+    },
+    {
+        "user_message": "can i get a special deal",
+        "bot_response": "i can do $970"
+    },
+    {
+        "user_message": "can you match $950",
+        "bot_response": "$960 is my lowest offer"
+    },
+    {
+        "user_message": "hi how much is this gaming console",
+        "bot_response": "its $500"
+    },
+    {
+        "user_message": "can i get a discount",
+        "bot_response": "i can offer it for $480"
+    },
+    {
+        "user_message": "what about $460",
+        "bot_response": "$470 is the lowest i can go"
+    },
+    {
+        "user_message": "hey whats the price of this tablet",
+        "bot_response": "its $350"
+    },
+    {
+        "user_message": "can you do $330",
+        "bot_response": "the lowest i can offer is $340"
+    },
+    {
+        "user_message": "this mountain bike looks awesome how much",
+        "bot_response": "its $1200"
+    },
+    {
+        "user_message": "any discounts",
+        "bot_response": "i can do $1150"
+    },
+    {
+        "user_message": "can we settle at $1100",
+        "bot_response": "$1120 is my final price"
+    },
+    {
+        "user_message": "hey i like this jacket how much is it",
+        "bot_response": "its $80"
+    },
+    {
+        "user_message": "can i get a discount",
+        "bot_response": "hmm i can offer $75 if you buy now"
+    },
+    {
+        "user_message": "$70",
+        "bot_response": "sorry i cant go below $73 deal"
+    }
+]

@@ -1,0 +1,158 @@
+User: Hi, I love this phone. How much does it cost?
+Bot: It's $599.
+User: Can I get a discount if I buy two?
+Bot: Sure, I can offer $570 each if you get two.
+User: What about $550 each?
+Bot: I can go down to $560 each. Deal?
+User: Sounds good. I'll take them.
+
+User: I'm interested in this laptop. What's the price?
+Bot: It's $1,200.
+User: Can you give me a better deal?
+Bot: I can offer $1,150 if you purchase now.
+User: How about $1,100?
+Bot: The lowest I can go is $1,120. Final price.
+User: Alright, I'll buy it.
+
+User: Hey, how much is this smartwatch?
+Bot: It's $250.
+User: Any discounts available?
+Bot: I can give it for $235.
+User: Can you do $220?
+Bot: Sorry, $230 is my best offer.
+User: I'll take it.
+
+User: This sofa looks amazing! What's the price?
+Bot: It’s $800.
+User: Can I get a discount?
+Bot: I can lower it to $780.
+User: What about $750?
+Bot: I can do $760. Final price.
+User: Alright, deal.
+
+User: Hi, how much is this dining table set?
+Bot: The price is $1,500.
+User: Can you lower it a bit?
+Bot: The best I can do is $1,450.
+User: What if I buy chairs separately?
+Bot: Then I can offer $1,400.
+User: Deal!
+
+User: I'm looking at this gaming chair. What's the cost?
+Bot: It's $350.
+User: Any promotions running?
+Bot: Yes, I can offer it for $330.
+User: How about $320?
+Bot: The lowest is $325. Does that work?
+User: Yes, I'll take it.
+
+User: Hey, how much is this refrigerator?
+Bot: It's $999.
+User: Any chance for a lower price?
+Bot: I can do $970.
+User: Can you match $950?
+Bot: I can go as low as $960.
+User: I'll take it.
+
+User: This guitar looks fantastic! What's the price?
+Bot: It’s $600.
+User: Can I get a special deal?
+Bot: I can sell it for $580.
+User: What about $550?
+Bot: The best I can do is $570.
+User: Alright, I'll take it.
+
+User: Hi, I want this home theater system. What's the price?
+Bot: The price is $1,800.
+User: Can you offer a discount?
+Bot: I can reduce it to $1,750.
+User: Can we settle at $1,700?
+Bot: $1,720 is my lowest.
+User: Deal!
+
+User: I'm interested in this luxury watch. What's the cost?
+Bot: It's $5,000.
+User: Any discounts available?
+Bot: I can give you a $300 discount.
+User: Can we do $4,600?
+Bot: The lowest I can go is $4,700.
+User: Alright, I'll buy it.
+
+User: This TV is nice! How much?
+Bot: It’s $1,100.
+User: Can I get it for $1,050?
+Bot: I can lower it to $1,070.
+User: Can we do $1,030?
+Bot: $1,060 is my best offer.
+User: Okay, deal.
+
+User: Hi, how much is this treadmill?
+Bot: It’s $900.
+User: Any discounts available?
+Bot: I can do $880.
+User: Can you go down to $850?
+Bot: The lowest I can go is $860.
+User: Alright, I'll take it.
+
+User: Hey, I like this designer handbag. What’s the price?
+Bot: It’s $450.
+User: Can I get a discount?
+Bot: I can offer it for $430.
+User: How about $410?
+Bot: $420 is the final price.
+User: Okay, deal.
+
+User: How much is this DSLR camera?
+Bot: It’s $1,600.
+User: Can you offer a discount?
+Bot: I can sell it for $1,550.
+User: What about $1,500?
+Bot: The lowest is $1,520.
+User: Deal!
+
+User: I’m looking at this washing machine. What’s the price?
+Bot: It’s $700.
+User: Any promotions?
+Bot: I can reduce it to $680.
+User: How about $650?
+Bot: $670 is my lowest.
+User: Alright, I’ll buy it.
+
+User: This smartphone looks great! What’s the price?
+Bot: It’s $999.
+User: Can I get a special deal?
+Bot: I can do $970.
+User: Can you match $950?
+Bot: $960 is my lowest offer.
+User: Alright, I’ll take it.
+
+User: Hi, how much is this gaming console?
+Bot: It’s $500.
+User: Can I get a discount?
+Bot: I can offer it for $480.
+User: What about $460?
+Bot: $470 is the lowest I can go.
+User: Deal.
+
+User: Hey, what’s the price of this tablet?
+Bot: It’s $350.
+User: Can you do $330?
+Bot: The lowest I can offer is $340.
+User: Sounds good, I’ll take it.
+
+User: This mountain bike looks awesome! How much?
+Bot: It’s $1,200.
+User: Any discounts?
+Bot: I can do $1,150.
+User: Can we settle at $1,100?
+Bot: $1,120 is my final price.
+User: Okay, deal.
+
+
+User: Hey, I like this jacket. How much is it?
+Bot: It's $80. 
+User: Can I get a discount?
+Bot: Hmm... I can offer $75 if you buy now.
+User: $70?
+Bot: Sorry, I can't go below $73. Deal?
+User: Alright, I'll take it.
